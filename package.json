@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "index.html",
-  "homepage": "https://github.com/Ayushi9521/project",
+  "homepage": "https://ayushi9521.github.io/project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Ayushi9521.github.io/project'",
+    "build-gh": "parcel build --public-url 'https://ayushi9521.github.io/project'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ayushi9521/project"
+    "url": "git+https://ayushi9521.github.io/project/"
   },
   "author": "Microsoft",
   "license": "ISC",
