@@ -2,7 +2,7 @@
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\side-channel\index.d.ts133740570616197437 0
 82C:\Users\91976\OneDrive\Desktop\project\node_modules\@parcel\cache\lib\IDBCache.js133740570623619630 0
 72C:\Users\91976\OneDrive\Desktop\project\node_modules\keyv\src\index.d.ts133740570592965961 0
-44C:\Users\91976\OneDrive\Desktop\project\dist133740629667547856 1
+44C:\Users\91976\OneDrive\Desktop\project\dist133740639591262165 1
 68C:\Users\91976\OneDrive\Desktop\project\node_modules\debug\README.md133740570609140698 0
 61C:\Users\91976\OneDrive\Desktop\project\node_modules\svgo\lib133740570649286467 1
 70C:\Users\91976\OneDrive\Desktop\project\node_modules\lodash\valueOf.js133740570734646425 0
@@ -18,7 +18,7 @@
 84C:\Users\91976\OneDrive\Desktop\project\node_modules\which-typed-array\tsconfig.json133740570611476372 0
 84C:\Users\91976\OneDrive\Desktop\project\node_modules\caniuse-lite\data\regions\GU.js133740570702306021 0
 80C:\Users\91976\OneDrive\Desktop\project\node_modules\svgo\node_modules\commander133740570612951667 1
-65C:\Users\91976\OneDrive\Desktop\project\dist\twitter.2f63f4f7.svg133740629666295408 0
+65C:\Users\91976\OneDrive\Desktop\project\dist\twitter.2f63f4f7.svg133740639590110678 0
 95C:\Users\91976\OneDrive\Desktop\project\node_modules\css-select\lib\pseudo-selectors\index.d.ts133740570646310697 0
 85C:\Users\91976\OneDrive\Desktop\project\node_modules\svgo\plugins\removeEmptyAttrs.js133740570665341401 0
 96C:\Users\91976\OneDrive\Desktop\project\node_modules\@parcel\package-manager\node_modules\semver133740570655417897 1
@@ -60,11 +60,11 @@
 85C:\Users\91976\OneDrive\Desktop\project\node_modules\eslint-plugin-jsx-a11y\__tests__133740570670832933 1
 75C:\Users\91976\OneDrive\Desktop\project\node_modules\prelude-ls\lib\List.js133740570598517744 0
 95C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\helpers\isTrailingSurrogate.js133740570734241280 0
-64C:\Users\91976\OneDrive\Desktop\project\dist\medium.d82cbfc4.svg133740629666992602 0
+64C:\Users\91976\OneDrive\Desktop\project\dist\medium.d82cbfc4.svg133740639590927724 0
 102C:\Users\91976\OneDrive\Desktop\project\node_modules\caniuse-lite\data\features\wasm-extended-const.js133740570727264366 0
 93C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2017\ToPropertyDescriptor.js133740570764218728 0
 71C:\Users\91976\OneDrive\Desktop\project\node_modules\react-dom\index.js133740570591950672 0
-66C:\Users\91976\OneDrive\Desktop\project\dist\linkedin.8fb3fb77.svg133740629666295408 0
+66C:\Users\91976\OneDrive\Desktop\project\dist\linkedin.8fb3fb77.svg133740639590110678 0
 89C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2021\Number\sameValue.js133740570750750504 0
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2018\tables133740570765639119 1
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\is-number-object\.nycrc133740570591035413 0
@@ -104,7 +104,7 @@
 48C:\Users\91976\OneDrive\Desktop\project\index.js133739891335032197 0
 74C:\Users\91976\OneDrive\Desktop\project\node_modules\async\detectSeries.js133740570646340781 0
 113C:\Users\91976\OneDrive\Desktop\project\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md133740570664511238 0
-55C:\Users\91976\OneDrive\Desktop\project\dist\index.html133740629666492302 0
+55C:\Users\91976\OneDrive\Desktop\project\dist\index.html133740639590292330 0
 81C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2018\ToString.js133740570764533889 0
 78C:\Users\91976\OneDrive\Desktop\project\node_modules\lodash\_initCloneByTag.js133740570688507534 0
 98C:\Users\91976\OneDrive\Desktop\project\node_modules\axobject-query\lib\etc\objects\MenuBarRole.js133740570666851829 0
@@ -145,9 +145,9 @@
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\domutils\lib\feeds.d.ts133740570634702770 0
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\array.prototype.flatmap133740570629976571 1
 112C:\Users\91976\OneDrive\Desktop\project\node_modules\resolve\test\resolver\multirepo\packages\package-b\index.js133740570658074533 0
-64C:\Users\91976\OneDrive\Desktop\project\dist\github.1f13de9d.svg133740629666220827 0
+64C:\Users\91976\OneDrive\Desktop\project\dist\github.1f13de9d.svg133740639590110678 0
 96C:\Users\91976\OneDrive\Desktop\project\node_modules\caniuse-lite\data\features\css-paint-api.js133740570689067557 0
-62C:\Users\91976\OneDrive\Desktop\project\dist\index.3d214d75.js133740629666506681 0
+62C:\Users\91976\OneDrive\Desktop\project\dist\index.3d214d75.js133740639590292330 0
 119C:\Users\91976\OneDrive\Desktop\project\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133740570660590329 0
 86C:\Users\91976\OneDrive\Desktop\project\node_modules\uri-js\dist\esnext\regexps-uri.js133740570612106448 0
 85C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2017\YearFromTime.js133740570769424898 0
@@ -156,7 +156,7 @@
 100C:\Users\91976\OneDrive\Desktop\project\node_modules\svgo\node_modules\css-select\lib\compile.js.map133740570648926451 0
 90C:\Users\91976\OneDrive\Desktop\project\node_modules\string.prototype.trimend\package.json133740570623859652 0
 62C:\Users\91976\OneDrive\Desktop\project\node_modules\fast-diff133740570602453792 1
-67C:\Users\91976\OneDrive\Desktop\project\dist\instagram.dc5ca4b1.svg133740629666992602 0
+67C:\Users\91976\OneDrive\Desktop\project\dist\instagram.dc5ca4b1.svg133740639590927724 0
 96C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2021\CreateListFromArrayLike.js133740570700520659 0
 104C:\Users\91976\OneDrive\Desktop\project\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133740570771335345 0
 89C:\Users\91976\OneDrive\Desktop\project\node_modules\@parcel\transformer-posthtml\LICENSE133740570604414422 0
@@ -171,7 +171,7 @@
 75C:\Users\91976\OneDrive\Desktop\project\node_modules\lodash\fp\findIndex.js133740570708497725 0
 77C:\Users\91976\OneDrive\Desktop\project\node_modules\dot-case\dist\index.d.ts133740570622734350 0
 79C:\Users\91976\OneDrive\Desktop\project\node_modules\lodash\fp\isArrayBuffer.js133740570713939032 0
-63C:\Users\91976\OneDrive\Desktop\project\dist\index.1303bb05.css133740629666992602 0
+63C:\Users\91976\OneDrive\Desktop\project\dist\index.1303bb05.css133740639590927724 0
 73C:\Users\91976\OneDrive\Desktop\project\node_modules\js-yaml\package.json133740570646180707 0
 75C:\Users\91976\OneDrive\Desktop\project\node_modules\yocto-queue\index.d.ts133740570600598431 0
 88C:\Users\91976\OneDrive\Desktop\project\node_modules\resolve\test\resolver\missing_index133740570671518139 1
@@ -189,7 +189,7 @@
 60C:\Users\91976\OneDrive\Desktop\project\node_modules\isarray133740570593256004 1
 110C:\Users\91976\OneDrive\Desktop\project\node_modules\eslint-plugin-react\lib\rules\forbid-component-props.d.ts133740570695574310 0
 94C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2024\GetIteratorFromMethod.js133740570716119582 0
-67C:\Users\91976\OneDrive\Desktop\project\dist\index.1303bb05.css.map133740629667199124 0
+67C:\Users\91976\OneDrive\Desktop\project\dist\index.1303bb05.css.map133740639590927724 0
 74C:\Users\91976\OneDrive\Desktop\project\node_modules\entities\lib\index.js133740570613976904 0
 95C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2017\OrdinarySetPrototypeOf.js133740570745524149 0
 87C:\Users\91976\OneDrive\Desktop\project\node_modules\resolve\test\resolver\invalid_main133740570671092940 1
@@ -202,7 +202,7 @@
 101C:\Users\91976\OneDrive\Desktop\project\node_modules\eslint-visitor-keys\dist\eslint-visitor-keys.cjs133740570590020079 0
 93C:\Users\91976\OneDrive\Desktop\project\node_modules\utility-types\dist\functional-helpers.js133740570597167225 0
 61C:\Users\91976\OneDrive\Desktop\project\node_modules\msgpackr133740570660710322 1
-71C:\Users\91976\OneDrive\Desktop\project\dist\working-woman.2bb4d7bb.jpg133740629667497847 0
+71C:\Users\91976\OneDrive\Desktop\project\dist\working-woman.2bb4d7bb.jpg133740639591152132 0
 82C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2016\GetMethod.js133740570716824847 0
 77C:\Users\91976\OneDrive\Desktop\project\node_modules\jsx-ast-utils\hasProp.js133740570654517798 0
 95C:\Users\91976\OneDrive\Desktop\project\node_modules\css-select\lib\pseudo-selectors\pseudos.js133740570616107410 0
@@ -290,7 +290,7 @@
 69C:\Users\91976\OneDrive\Desktop\project\node_modules\utila\.npmignore133740570587519480 0
 90C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2021\BigInt\bitwiseXOR.js133740570686221803 0
 63C:\Users\91976\OneDrive\Desktop\project\node_modules\param-case133740570616207429 1
-52C:\Users\91976\OneDrive\Desktop\project\package.json133740629654475423 0
+52C:\Users\91976\OneDrive\Desktop\project\package.json133740639577596125 0
 76C:\Users\91976\OneDrive\Desktop\project\node_modules\utility-types\README.md133740570625580148 0
 89C:\Users\91976\OneDrive\Desktop\project\node_modules\es-abstract\2022\IsIntegralNumber.js133740570732350770 0
 90C:\Users\91976\OneDrive\Desktop\project\node_modules\uri-js\dist\esnext\schemes\urn.js.map133740570646635944 0
@@ -15191,10 +15191,10 @@
 64C:\Users\91976\OneDrive\Desktop\project\Components\Portfolio.jsx133740552926401322 0
 101C:\Users\91976\OneDrive\Desktop\project\Project result in image form\Screenshot 2024-10-22 142935.png133740611754946722 0
 101C:\Users\91976\OneDrive\Desktop\project\Project result in image form\Screenshot 2024-10-22 143458.png133740614982343805 0
-66C:\Users\91976\OneDrive\Desktop\project\dist\devdotto.cdf95505.svg133740629666220827 0
-68C:\Users\91976\OneDrive\Desktop\project\dist\down-arrow.b8ab33ca.svg133740629666295408 0
-66C:\Users\91976\OneDrive\Desktop\project\dist\worklife.43f7a938.jpg133740629666375457 0
-66C:\Users\91976\OneDrive\Desktop\project\dist\index.3d214d75.js.map133740629666566799 0
-66C:\Users\91976\OneDrive\Desktop\project\dist\envelope.901df329.svg133740629666992602 0
-65C:\Users\91976\OneDrive\Desktop\project\dist\youtube.17cf9f7e.svg133740629666992602 0
-65C:\Users\91976\OneDrive\Desktop\project\dist\colorBg.3ab18725.jpg133740629667527879 0
+66C:\Users\91976\OneDrive\Desktop\project\dist\devdotto.cdf95505.svg133740639590110678 0
+68C:\Users\91976\OneDrive\Desktop\project\dist\down-arrow.b8ab33ca.svg133740639590110678 0
+66C:\Users\91976\OneDrive\Desktop\project\dist\worklife.43f7a938.jpg133740639590262339 0
+66C:\Users\91976\OneDrive\Desktop\project\dist\index.3d214d75.js.map133740639590419492 0
+66C:\Users\91976\OneDrive\Desktop\project\dist\envelope.901df329.svg133740639590771973 0
+65C:\Users\91976\OneDrive\Desktop\project\dist\youtube.17cf9f7e.svg133740639590927724 0
+65C:\Users\91976\OneDrive\Desktop\project\dist\colorBg.3ab18725.jpg133740639591262165 0
